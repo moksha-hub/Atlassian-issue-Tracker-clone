@@ -1,12 +1,5 @@
 # Atlassian's-issue-Tracker
 
-![GitHub repo size](https://img.shields.io/github/repo-size/evanch98/jira-clone-nextjs)
-![GitHub stars](https://img.shields.io/github/stars/evanch98/jira-clone-nextjs?style=social)
-![GitHub forks](https://img.shields.io/github/forks/evanch98/jira-clone-nextjs?style=social)
-
-<br />
-November, 2024. <br />
-
 Full-stack Jira Clone project built by using Next JS 14, React, TypeScript, Shadcn UI, Tailwind CSS, Hono, and Appwrite.
 
 ## Features
