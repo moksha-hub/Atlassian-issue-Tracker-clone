@@ -1,4 +1,4 @@
-# jira-clone-nextjs
+# Atlassian's-issue-Tracker
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/evanch98/jira-clone-nextjs)
 ![GitHub stars](https://img.shields.io/github/stars/evanch98/jira-clone-nextjs?style=social)
@@ -23,7 +23,7 @@ These instructions will help you set up and run the project on your local machin
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/evanch98/jira-clone-nextjs.git
+git clone [https://github.com/moksha-hub/Atlassian-issue-Tracker-clone.git]
 cd your-repo-name
 ```
 
@@ -58,13 +58,8 @@ NEXT_APPWRITE_KEY=
 bun dev
 ```
 
-5. **Start building and customizing your Jira Clone!**
+5. **Start building and customizing your Issue-Tracker Clone!**
 
-6. **Demo Account**
-
-   Email: evan@mail.com
-
-   Password: Evan12345678
 
 ## Technologies Used
 
