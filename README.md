@@ -1,6 +1,13 @@
 # Atlassian's-issue-Tracker
 
 Full-stack Jira Clone project built by using Next JS 14, React, TypeScript, Shadcn UI, Tailwind CSS, Hono, and Appwrite.
+i. Implementation: Incorporated Shadcn UI components.
+
+Impact: Provided a consistent and intuitive user interface, improving usability and aesthetics.
+
+ii. Implementation: Upgraded to Next.js 14, React, TypeScript, and Tailwind CSS.
+
+Impact: Enhanced performance, scalability, and maintainability, ensuring a responsive and efficient user experience.
 
 ## Features
 
